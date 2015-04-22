@@ -1,0 +1,17 @@
+html, body {
+	padding: 0;
+	margin: 0;
+	background-color: #f1c40f;
+}
+
+#gameDiv canvas {
+	outline: #ffffff solid 1px;
+	margin: 0 auto;
+}
+
+#font-loader {
+	visibility: hidden;
+	font-family: 'Comfortaa';
+	color: #f1c40f;
+	font-size: 0;
+}
